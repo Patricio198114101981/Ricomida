@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.navbar {
+    background-color: #373A3C; 
+    height: 60px;   
+}
+
+.navbar-brand{
+    color: white;
+    font-family: lobster;
+    font-size: 37px;   
+}
+
+.newsletter{
+    background-color: #DC3545;
+    color: white;
+    padding: 10% 0;
+}
+
+.footer{
+    background-color: #373A3C;
+    color: white;
+    /* padding: 2% 0; */
+}
+
+.ricomida{
+    font-family: lobster;
+}
